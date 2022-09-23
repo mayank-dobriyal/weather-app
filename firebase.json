@@ -1,5 +1,6 @@
 {
   "hosting": {
+    "site": "weather-app-platform",
     "public": "public",
     "ignore": [
       "firebase.json",
