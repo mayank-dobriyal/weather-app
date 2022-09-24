@@ -1,35 +1,13 @@
-# weather-app
+# Weather App
 
-This template should help get you started developing with Vue 3 in Vite.
+A simple weather application that displays the current weather, daily forecasts, and hourly forecasts based on search.
 
-## Recommended IDE Setup
+## Features
+- Weather information
+- Search Location
+- Hourly and weekly forecasts
+- Save location
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
+## Live Demo
+Live demo can be found [here](https://weather-app-platform.web.app/)
+this project was bootsrapped with [VUE](https://github.com/vuejs/vue)
