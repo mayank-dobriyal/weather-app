@@ -9,5 +9,6 @@ A simple weather application that displays the current weather, daily forecasts,
 - Save location
 
 ## Live Demo
-Live demo can be found [here](https://weather-app-platform.web.app/)
-this project was bootsrapped with [VUE](https://github.com/vuejs/vue)
+Live demo can be found [here](https://weather-app-platform.web.app/).
+
+This project was bootsrapped with [VUE](https://github.com/vuejs/vue).
